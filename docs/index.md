@@ -20,7 +20,7 @@ VOCALOID5に慣れるためのメモ
 ![rel_pitch_1](image/rel_pitch_1.png)<br>
 <audio src="sound/rel_pitch_1.mp3" controls></audio><br>
 ![rel_pitch_2](image/rel_pitch_2.png)<br>
-<audio src="sound/rel_pitch_3.mp3" controls></audio><br>
+<audio src="sound/rel_pitch_2.mp3" controls></audio><br>
 ### DYNAMICS
 ![rel_dyn](image/rel_dyn.png)<br>
 <audio src="sound/rel_dyn.mp3" controls></audio><br>
