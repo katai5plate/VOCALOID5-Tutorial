@@ -101,7 +101,7 @@ VOCALOID5に慣れるためのメモ
 #### Crescendo
 1. _
 2. 2
-3. 3.
+3. 3
 ### TONE
 ![rel_tone](image/rel_tone.png)<br>
 <audio src="sound/rel_tone.mp3" controls></audio><br>
