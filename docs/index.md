@@ -5,12 +5,48 @@ VOCALOID5に慣れるためのメモ
 ### PITCH
 ![attack_pitch](image/attack_pitch.png)<br>
 <audio src="sound/attack_pitch.mp3" controls></audio><br>
+#### Down
+1. _
+2. 2
+3. 3
+#### Enka
+#### Up
+1. _
+2. 2
+3. 3
+4. 4
+5. 5
 ### DYNAMICS
 ![attack_dyn](image/attack_dyn.png)<br>
 <audio src="sound/attack_dyn.mp3" controls></audio><br>
+#### Accent
+1. _
+2. 2
+3. 3
+#### Crescendo
+1. _
+2. 2
+#### DoubleAccent
+1. _
+2. 2
+3. 3
 ### TONE
 ![attack_tone](image/attack_tone.png)<br>
 <audio src="sound/attack_tone.mp3" controls></audio><br>
+#### Airy
+1. _
+2. 2
+#### Clear
+#### Growly
+1. _
+2. 2
+3. 3
+4. 4
+#### Etc
+1. Narrowed
+2. Oh-uh
+3. Opend
+4. Wow
 ### ORNAMENTATION
 ![attack_ornam](image/attack_ornam.png)<br>
 <audio src="sound/attack_ornam.mp3" controls></audio><br>
